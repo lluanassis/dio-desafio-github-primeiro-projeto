@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-projeto
-Desafio de projeto sobre Git/Github
+# Desafio Git e Github Primeiro projeto
+Atualizações quanto ao progresso do curso.
