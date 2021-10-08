@@ -1,2 +1,2 @@
-# Desafio Git e Github Primeiro projeto
+# Desafio Git e Github Primeiro Projeto
 Atualizações quanto ao progresso do curso.
